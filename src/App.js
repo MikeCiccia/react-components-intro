@@ -46,7 +46,7 @@ function App() {
         <p className="country">United Kingdom</p>
       </footer>
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
